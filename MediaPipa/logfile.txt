@@ -1,0 +1,2 @@
+2022-09-23 11:56:33,367 FALL DETECTED
+2022-09-23 11:56:59,909 Entry into forbidden zone
